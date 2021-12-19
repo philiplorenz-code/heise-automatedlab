@@ -37,11 +37,7 @@
 <br>
 
 ## Inhalt:
-Jeder Ordner zum jeweiligen Kapitel enthält jeweils zwei Unterordner: Lektionen & Aufgaben 
-- Lektionen:
-  - enthält den Code aus den Video-Lektionen
-- Aufgaben
-  - enthält die jeweiligen Aufgaben zum Ende eines Kapitels
+Zu jedem Kapitel existiert ein Ordner, welche den kompletten Code des Kurses enthält
 
 ### Download des Repos
 1. Möglichkeit: Git clone
