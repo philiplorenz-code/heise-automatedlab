@@ -1,3 +1,7 @@
+# Hyper-V Installation:
+Install-WindowsFeature -Name Hyper-V -ComputerName <computer_name> -IncludeManagementTools -Restart
+
+
 Install-PackageProvider Nuget -Force
 Install-Module AutomatedLab -AllowClobber
 
