@@ -1,6 +1,9 @@
 # Hyper-V Installation:
 Install-WindowsFeature -Name Hyper-V -ComputerName <computer_name> -IncludeManagementTools -Restart
 
+# MSI-Download:
+https://automatedlab.org/en/latest/Wiki/Basic/install/
+
 
 Install-PackageProvider Nuget -Force
 Install-Module AutomatedLab -AllowClobber
