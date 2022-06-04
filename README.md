@@ -1,4 +1,4 @@
-# Scripts und Unterlagen zum Heise-PowerShell Kurs!
+# Scripts und Unterlagen zum Heise-AutomatedLab Kurs!
 
 <table>
 <thead>
@@ -36,8 +36,6 @@
 
 <br>
 
-## Inhalt:
-Zu jedem Kapitel existiert ein Ordner, welche den kompletten Code des Kurses enthält
 
 ### Download des Repos
 1. Möglichkeit: Git clone
@@ -47,11 +45,8 @@ Zu jedem Kapitel existiert ein Ordner, welche den kompletten Code des Kurses ent
 2. Möglichkeit: Manuelles Herunterladen:
    - Klick auf "Code"
    - "Download ZIP"
-
 <br>
 
 
 ### Wichtige Links und weiterführende Inhalte
 - [PowerShell Best Practices](https://www.scriptrunner.com/en/blog/5-powershell-scripting-best-practices/)
-- [Sehr gute Quelle für fortgeschrittene Techniken](https://learn-powershell.net)
-
